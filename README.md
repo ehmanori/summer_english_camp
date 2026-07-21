@@ -34,6 +34,7 @@ BMAD 기준 핵심 문서입니다.
 - [Kids-English-Guide.md](03-guides/Kids-English-Guide.md): 아이들 실생활 영어 표현과 부모 코칭 가이드
 - [MEC-Handbook-Summary.md](03-guides/MEC-Handbook-Summary.md): MEC Student Handbook 2026 핵심 요약
 - [Packing-Checklist.md](03-guides/Packing-Checklist.md): 가족 3인 출발 전 준비물과 출발 당일 최종 체크리스트
+- [Bag-Packing-Plan.md](03-guides/Bag-Packing-Plan.md): 캐리어 6개 구획과 배낭의 실제 준비물 배치표
 
 ### `90-references`
 
