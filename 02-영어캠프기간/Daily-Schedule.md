@@ -10,9 +10,9 @@ Version: v3.0
 
 | 내용 | 정본 문서 |
 |---|---|
-| 프로젝트 배경·가족·일정 범위 | [B-overview.md](../04-공통/B-overview.md) |
-| 운영 및 판단 원칙 | [M-strategy.md](M-strategy.md) |
-| 확정사항·미완료 항목·일일 기록 | [D-control-checklists.md](../01-출국전/D-control-checklists.md) |
+| 프로젝트 배경·가족·일정 범위 | [프로젝트 개요](../04-공통/Trip-Overview.md) |
+| 운영 및 판단 원칙 | [현지 운영 전략](Camp-Operation-Guide.md) |
+| 확정사항·미완료 항목·일일 기록 | [최종 확인과 운영 기록](../01-출국전/Final-Checklist-and-Daily-Log.md) |
 | 출국·국경 이동·귀국 | [Transfer-Schedule.md](../01-출국전/Transfer-Schedule.md) |
 | 싱가포르 활동 일정 | [Singapore-itinerary.md](../03-싱가포르여행기간/Singapore-itinerary.md) |
 | 비용 | [Cost-tracker.md](../04-공통/Cost-tracker.md) |
@@ -89,4 +89,4 @@ Version: v3.0
 
 ## 7. 현지 일일 기록
 
-완료 여부와 컨디션은 [D-control-checklists.md](../01-출국전/D-control-checklists.md)의 현지 운영 기록표에 하루 한 줄만 기록한다.
+완료 여부와 컨디션은 [최종 확인과 운영 기록](../01-출국전/Final-Checklist-and-Daily-Log.md)의 현지 운영 기록표에 하루 한 줄만 기록한다.
