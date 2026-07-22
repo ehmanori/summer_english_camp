@@ -4,7 +4,7 @@ Version: v2.0
 
 작성일: 2026-07-22
 
-이 문서는 완료 상태, 남은 확인사항, 현지 일일 기록만 관리한다. 준비물은 [Packing-Checklist.md](../03-guides/Packing-Checklist.md), 비용은 [Cost-tracker.md](../02-finance/Cost-tracker.md)를 참조한다.
+이 문서는 완료 상태, 남은 확인사항, 현지 일일 기록만 관리한다. 준비물은 [Packing-Checklist.md](Packing-Checklist.md), 비용은 [Cost-tracker.md](../04-공통/Cost-tracker.md)를 참조한다.
 
 ## 1. 완료된 항목
 
@@ -18,7 +18,7 @@ Version: v2.0
 - [x] 새 20,000mAh 보조배터리 구매
 - [x] MEC 제공 전용보험 비교 후 KB 플랜 유지 결정
 
-예약 세부는 [Transfer-Schedule.md](../01-itineraries/Transfer-Schedule.md), 보험료는 [Cost-tracker.md](../02-finance/Cost-tracker.md)에서 확인한다.
+예약 세부는 [Transfer-Schedule.md](Transfer-Schedule.md), 보험료는 [Cost-tracker.md](../04-공통/Cost-tracker.md)에서 확인한다.
 
 ## 2. 출발 전 확인사항
 
@@ -44,13 +44,13 @@ Version: v2.0
 ### MEC
 
 - [ ] 최종 시간표와 등하원 방식 확인
-- [ ] [MEC-Handbook-Summary.md](../03-guides/MEC-Handbook-Summary.md)에 명시된 앱을 설치하고 아이들 태블릿 로그인 확인
+- [ ] [MEC-Handbook-Summary.md](../02-영어캠프기간/MEC-Handbook-Summary.md)에 명시된 앱을 설치하고 아이들 태블릿 로그인 확인
 - [ ] 첫날 OT와 모든 수업은 학생만 참석한다는 규정 숙지
 
 ### 패킹
 
-- [ ] [Packing-Checklist.md](../03-guides/Packing-Checklist.md) 완료
-- [ ] [Bag-Packing-Plan.md](../03-guides/Bag-Packing-Plan.md)에 따라 기내·위탁 구분
+- [ ] [Packing-Checklist.md](Packing-Checklist.md) 완료
+- [ ] [Bag-Packing-Plan.md](Bag-Packing-Plan.md)에 따라 기내·위탁 구분
 - [ ] 두 28인치 캐리어의 무게 차이를 2kg 이내로 조정
 - [ ] 보조배터리 단자 보호 및 개별 지퍼백 포장
 
@@ -79,7 +79,7 @@ Version: v2.0
 
 ### 5.2 일일 지출
 
-상세 금액은 [Cost-tracker.md](../02-finance/Cost-tracker.md)에 기록한다.
+상세 금액은 [Cost-tracker.md](../04-공통/Cost-tracker.md)에 기록한다.
 
 | 날짜 | 당일 총액 | 주요 지출 | 비고 |
 |---|---:|---|---|

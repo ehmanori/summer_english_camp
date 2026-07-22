@@ -20,7 +20,7 @@ Version: Draft v1.0
 ### 2.1 디지털 입국 신고
 
 - 핸드북은 말레이시아 입국 전 MDAC와 싱가포르 입국 전 SGAC 제출을 요구한다.
-- 실제 제출일과 완료 상태는 [Transfer-Schedule.md](../01-itineraries/Transfer-Schedule.md)와 [D-control-checklists.md](../00-bmad/D-control-checklists.md)에서 관리한다.
+- 실제 제출일과 완료 상태는 [Transfer-Schedule.md](../01-출국전/Transfer-Schedule.md)와 [D-control-checklists.md](../01-출국전/D-control-checklists.md)에서 관리한다.
 
 ### 2.2 앱 설치
 
@@ -41,7 +41,7 @@ Version: Draft v1.0
 
 ## 3. 캠프 등원 준비물
 
-실제 수량과 준비 완료 여부는 [Packing-Checklist.md](Packing-Checklist.md)에서만 관리한다.
+실제 수량과 준비 완료 여부는 [Packing-Checklist.md](../01-출국전/Packing-Checklist.md)에서만 관리한다.
 
 운영 메모:
 

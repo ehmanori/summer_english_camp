@@ -10,16 +10,16 @@ Version: v3.0
 
 | 내용 | 정본 문서 |
 |---|---|
-| 프로젝트 배경·가족·일정 범위 | [B-overview.md](B-overview.md) |
+| 프로젝트 배경·가족·일정 범위 | [B-overview.md](../04-공통/B-overview.md) |
 | 운영 및 판단 원칙 | [M-strategy.md](M-strategy.md) |
-| 확정사항·미완료 항목·일일 기록 | [D-control-checklists.md](D-control-checklists.md) |
-| 출국·국경 이동·귀국 | [Transfer-Schedule.md](../01-itineraries/Transfer-Schedule.md) |
-| 싱가포르 활동 일정 | [Singapore-itinerary.md](../01-itineraries/Singapore-itinerary.md) |
-| 비용 | [Cost-tracker.md](../02-finance/Cost-tracker.md) |
-| 준비물 | [Packing-Checklist.md](../03-guides/Packing-Checklist.md) |
-| 가방 배치 | [Bag-Packing-Plan.md](../03-guides/Bag-Packing-Plan.md) |
-| MEC 규정 | [MEC-Handbook-Summary.md](../03-guides/MEC-Handbook-Summary.md) |
-| 아이 영어 표현 | [Kids-English-Guide.md](../03-guides/Kids-English-Guide.md) |
+| 확정사항·미완료 항목·일일 기록 | [D-control-checklists.md](../01-출국전/D-control-checklists.md) |
+| 출국·국경 이동·귀국 | [Transfer-Schedule.md](../01-출국전/Transfer-Schedule.md) |
+| 싱가포르 활동 일정 | [Singapore-itinerary.md](../03-싱가포르여행기간/Singapore-itinerary.md) |
+| 비용 | [Cost-tracker.md](../04-공통/Cost-tracker.md) |
+| 준비물 | [Packing-Checklist.md](../01-출국전/Packing-Checklist.md) |
+| 가방 배치 | [Bag-Packing-Plan.md](../01-출국전/Bag-Packing-Plan.md) |
+| MEC 규정 | [MEC-Handbook-Summary.md](MEC-Handbook-Summary.md) |
+| 아이 영어 표현 | [Kids-English-Guide.md](Kids-English-Guide.md) |
 
 ## 2. Batch B 수업시간
 
@@ -89,4 +89,4 @@ Version: v3.0
 
 ## 7. 현지 일일 기록
 
-완료 여부와 컨디션은 [D-control-checklists.md](D-control-checklists.md)의 현지 운영 기록표에 하루 한 줄만 기록한다.
+완료 여부와 컨디션은 [D-control-checklists.md](../01-출국전/D-control-checklists.md)의 현지 운영 기록표에 하루 한 줄만 기록한다.

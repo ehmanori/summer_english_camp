@@ -4,37 +4,37 @@
 
 ## 1. 지금 볼 문서 — 출국 전
 
-1. [최종 확인과 운영 기록](00-bmad/D-control-checklists.md)
+1. [최종 확인과 운영 기록](01-출국전/D-control-checklists.md)
    예약·입국신고·보험·통신 등 아직 끝내야 할 항목을 확인한다.
 
-2. [준비물 체크리스트](03-guides/Packing-Checklist.md)
+2. [준비물 체크리스트](01-출국전/Packing-Checklist.md)
    가져갈 물건과 수량을 확인한다.
 
-3. [가방별 배치 계획](03-guides/Bag-Packing-Plan.md)
+3. [가방별 배치 계획](01-출국전/Bag-Packing-Plan.md)
    28인치 2개, 20인치 1개, 배낭에 짐을 나누고 무게를 맞춘다.
 
-4. [출국·국경 이동·귀국 일정표](01-itineraries/Transfer-Schedule.md)
+4. [출국·국경 이동·귀국 일정표](01-출국전/Transfer-Schedule.md)
    출국 당일 시간, JJTOUR 미팅, 국경 이동 절차를 확인한다.
 
 출국 전에는 다른 문서를 전부 읽을 필요가 없다.
 
 ## 2. 영어캠프가 시작되면 볼 문서
 
-- [일일 실행계획](00-bmad/A-execution-plan.md): MEC 통학, 홈런, 운동, 윤찬 스윙을 포함한 평일·주말 일과
-- [현지 운영 전략](00-bmad/M-strategy.md): 아이 컨디션, 식사, 회복, 일정 축소 판단 기준
-- [MEC 핵심 규정](03-guides/MEC-Handbook-Summary.md): 수업·부모 방문·앱·학생 규정
-- [윤찬·소윤 영어 표현](03-guides/Kids-English-Guide.md): 캠프와 실생활에서 사용할 문장
+- [일일 실행계획](02-영어캠프기간/A-execution-plan.md): MEC 통학, 홈런, 운동, 윤찬 스윙을 포함한 평일·주말 일과
+- [현지 운영 전략](02-영어캠프기간/M-strategy.md): 아이 컨디션, 식사, 회복, 일정 축소 판단 기준
+- [MEC 핵심 규정](02-영어캠프기간/MEC-Handbook-Summary.md): 수업·부모 방문·앱·학생 규정
+- [윤찬·소윤 영어 표현](02-영어캠프기간/Kids-English-Guide.md): 캠프와 실생활에서 사용할 문장
 
 ## 3. 싱가포르로 넘어갈 때 볼 문서
 
-- [싱가포르 8/22~8/25 일정표](01-itineraries/Singapore-itinerary.md): 호텔 도착 후 활동, 도심 관광, USS, 귀국일 활동
-- [출국·국경 이동·귀국 일정표](01-itineraries/Transfer-Schedule.md): RNF → 싱가포르와 호텔 → 공항 이동
-- [최종 확인과 운영 기록](00-bmad/D-control-checklists.md): 싱가포르 재입국 SGAC와 이동업체 확인
+- [싱가포르 8/22~8/25 일정표](03-싱가포르여행기간/Singapore-itinerary.md): 호텔 도착 후 활동, 도심 관광, USS, 귀국일 활동
+- [출국·국경 이동·귀국 일정표](01-출국전/Transfer-Schedule.md): RNF → 싱가포르와 호텔 → 공항 이동
+- [최종 확인과 운영 기록](01-출국전/D-control-checklists.md): 싱가포르 재입국 SGAC와 이동업체 확인
 
 ## 4. 필요할 때만 보는 공통 문서
 
-- [프로젝트 개요](00-bmad/B-overview.md): 가족, 목적, 일정 범위
-- [비용 관리표](02-finance/Cost-tracker.md): 확정비·예상비·현지 지출
+- [프로젝트 개요](04-공통/B-overview.md): 가족, 목적, 일정 범위
+- [비용 관리표](04-공통/Cost-tracker.md): 확정비·예상비·현지 지출
 - [원본 자료](90-references): MEC 핸드북과 Offer 원본
 
 ## 문서 관리 원칙

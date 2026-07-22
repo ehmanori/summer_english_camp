@@ -6,7 +6,7 @@ Version: v2.0
 
 대상: 아버지 + 윤찬 + 소윤
 
-이 문서는 가져갈 물품과 수량만 관리한다. 행정·예약 확인은 [D-control-checklists.md](../00-bmad/D-control-checklists.md), 가방 위치는 [Bag-Packing-Plan.md](Bag-Packing-Plan.md)를 참조한다.
+이 문서는 가져갈 물품과 수량만 관리한다. 행정·예약 확인은 [D-control-checklists.md](D-control-checklists.md), 가방 위치는 [Bag-Packing-Plan.md](Bag-Packing-Plan.md)를 참조한다.
 
 29박 동안 세탁기를 사용하므로 옷은 7~10일분만 준비한다.
 
@@ -55,7 +55,7 @@ Version: v2.0
 - [ ] 윤찬 연습용 배트
 - [ ] 필요 시 배팅 장갑
 
-앱 설치와 로그인 완료 여부는 [D-control-checklists.md](../00-bmad/D-control-checklists.md)에서 확인한다.
+앱 설치와 로그인 완료 여부는 [D-control-checklists.md](D-control-checklists.md)에서 확인한다.
 
 ## 4. 의류·신발
 

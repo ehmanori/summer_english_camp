@@ -65,7 +65,7 @@ Version: Draft v1.0
 |---|---|
 | 07:30~08:00 | 아이스크림 홈런 30분 |
 | 08:00~08:20 | 윤찬 배트 스윙 100회, 안전한 야외 공간 사용 |
-| 오전~점심 | 국경 이동과 호텔 도착은 [Transfer-Schedule.md](Transfer-Schedule.md) 참조 |
+| 오전~점심 | 국경 이동과 호텔 도착은 [Transfer-Schedule.md](../01-출국전/Transfer-Schedule.md) 참조 |
 | 오후 | 호텔 휴식 또는 수영 1시간 |
 | 저녁 | Tanjong Pagar 근처 식사 후 Marina Bay 가벼운 산책 |
 | 밤 | 다음날 USS 준비 후 조기 취침 |
@@ -137,7 +137,7 @@ Version: Draft v1.0
 | 오전 | 조식 후 주변 산책 1시간 |
 | 점심 | Tanjong Pagar 근처 식사 |
 | 오후 | 호텔 휴식, 샤워, 짐 정리 |
-| 저녁 | 공항 이동과 탑승 시간은 [Transfer-Schedule.md](Transfer-Schedule.md) 참조 |
+| 저녁 | 공항 이동과 탑승 시간은 [Transfer-Schedule.md](../01-출국전/Transfer-Schedule.md) 참조 |
 
 운영 메모:
 
@@ -167,4 +167,4 @@ Version: Draft v1.0
 
 ## 8. 이동 참고
 
-출국·국경 이동·귀국편의 시간과 절차는 [Transfer-Schedule.md](Transfer-Schedule.md)에서만 관리한다.
+출국·국경 이동·귀국편의 시간과 절차는 [Transfer-Schedule.md](../01-출국전/Transfer-Schedule.md)에서만 관리한다.

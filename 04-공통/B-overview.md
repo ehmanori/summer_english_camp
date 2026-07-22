@@ -69,7 +69,7 @@
 
 ## 4. 현재 확정 전제
 
-현재 예약·보험·통신 결정과 남은 확인사항은 [D-control-checklists.md](D-control-checklists.md)에서만 관리한다.
+현재 예약·보험·통신 결정과 남은 확인사항은 [D-control-checklists.md](../01-출국전/D-control-checklists.md)에서만 관리한다.
 
 ## 5. 프로젝트 성공 기준
 
