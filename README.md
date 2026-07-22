@@ -9,17 +9,17 @@
 
 BMAD 기준 핵심 문서입니다.
 
-- [A-execution-plan.md](00-bmad/A-execution-plan.md): 실제 출발 전 실행계획서 본문
-- [B-overview.md](00-bmad/B-overview.md): 배경, 목적, 가족 정보, 지역 선정 이유
-- [M-strategy.md](00-bmad/M-strategy.md): 운영 원칙, 생활 전략, 교육 목표, 숙소 기준
-- [D-control-checklists.md](00-bmad/D-control-checklists.md): 확정사항, 리스크, 비용 통제, 체크리스트
+- [A-execution-plan.md](00-bmad/A-execution-plan.md): 현재 확정사항과 평일·주말 반복 일과
+- [B-overview.md](00-bmad/B-overview.md): 배경, 목적, 가족 정보, 일정 범위
+- [M-strategy.md](00-bmad/M-strategy.md): 현지에서 판단할 때 적용할 운영 원칙
+- [D-control-checklists.md](00-bmad/D-control-checklists.md): 완료 상태, 남은 확인사항, 현지 기록표
 
 ### `01-itineraries`
 
 일정과 이동 중심 문서입니다.
 
-- [Singapore-itinerary.md](01-itineraries/Singapore-itinerary.md): 캠프 종료 후 싱가포르 일정표
-- [Transfer-Schedule.md](01-itineraries/Transfer-Schedule.md): 출국, 국경 이동, 귀국 시간표
+- [Singapore-itinerary.md](01-itineraries/Singapore-itinerary.md): 캠프 종료 후 싱가포르 활동 일정
+- [Transfer-Schedule.md](01-itineraries/Transfer-Schedule.md): 출국, 국경 이동, 귀국 동선의 유일한 상세 시간표
 
 ### `02-finance`
 
@@ -33,8 +33,8 @@ BMAD 기준 핵심 문서입니다.
 
 - [Kids-English-Guide.md](03-guides/Kids-English-Guide.md): 아이들 실생활 영어 표현과 부모 코칭 가이드
 - [MEC-Handbook-Summary.md](03-guides/MEC-Handbook-Summary.md): MEC Student Handbook 2026 핵심 요약
-- [Packing-Checklist.md](03-guides/Packing-Checklist.md): 가족 3인 출발 전 준비물과 출발 당일 최종 체크리스트
-- [Bag-Packing-Plan.md](03-guides/Bag-Packing-Plan.md): 캐리어 6개 구획과 배낭의 실제 준비물 배치표
+- [Packing-Checklist.md](03-guides/Packing-Checklist.md): 가져갈 물품과 수량의 유일한 정본
+- [Bag-Packing-Plan.md](03-guides/Bag-Packing-Plan.md): 기내·위탁 구분과 여섯 구획의 배치 원칙
 
 ### `90-references`
 
@@ -60,3 +60,9 @@ BMAD 기준 핵심 문서입니다.
 - 부모의 일정 관리와 판단
 - 생활 리듬 유지
 - 안전과 운영 안정성
+
+## 중복 방지 원칙
+
+- 세부 내용은 정본 문서 한 곳에서만 관리한다.
+- 다른 문서에서는 같은 표나 목록을 복사하지 않고 정본 링크만 제공한다.
+- 일정 변경은 해당 일정표, 비용 변경은 비용표, 준비물 변경은 준비물 체크리스트에서만 수정한다.

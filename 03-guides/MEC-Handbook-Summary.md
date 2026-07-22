@@ -19,9 +19,8 @@ Version: Draft v1.0
 
 ### 2.1 디지털 입국 신고
 
-- `MDAC` 말레이시아 입국 전 3일 이내 작성
-- `SGAC` 싱가포르 입국 전 3일 이내 작성
-- 제출 후 `스크린샷`과 가능하면 `출력본` 보관
+- 핸드북은 말레이시아 입국 전 MDAC와 싱가포르 입국 전 SGAC 제출을 요구한다.
+- 실제 제출일과 완료 상태는 [Transfer-Schedule.md](../01-itineraries/Transfer-Schedule.md)와 [D-control-checklists.md](../00-bmad/D-control-checklists.md)에서 관리한다.
 
 ### 2.2 앱 설치
 
@@ -42,17 +41,7 @@ Version: Draft v1.0
 
 ## 3. 캠프 등원 준비물
 
-핸드북 기준 필요 준비물:
-
-- 필기구
-- 연필
-- 지우개
-- 필통
-- 가방
-- 노트
-- 텀블러
-- 바람막이
-- 태블릿 또는 노트북 (`Junior 필수`)
+실제 수량과 준비 완료 여부는 [Packing-Checklist.md](Packing-Checklist.md)에서만 관리한다.
 
 운영 메모:
 
@@ -146,11 +135,3 @@ Version: Draft v1.0
 | MEC China | +60 14 741 1300 |
 | MEC Kakao ID | mecjb123 |
 | MEC LINE ID | mecacademy |
-
-## 11. 부모용 한줄 요약
-
-- 아이만 수업 참여, 부모 방문은 예약
-- 텀블러, 바람막이, 태블릿 준비 필수
-- Class Dojo, Renaissance, mBlock 미리 설치
-- MDAC/SGAC는 출발 직전 3일 안에 제출
-- 문제 행동, 건강 특이사항, 알레르기/약 복용은 반드시 사전 공유
