@@ -19,7 +19,7 @@ Version: v2.0
 - [ ] Amara Singapore 예약서
 - [ ] JJTOUR 예약서 `EXP-20260715-00011032`
 - [ ] 캠프 등록·납부 서류
-- [ ] SGAC·MDAC 확인자료
+- [x] SGAC·MDAC 확인자료
 - [ ] 해외 사용 카드
 - [ ] 예비 카드
 - [ ] MYR·SGD 초기 현금
