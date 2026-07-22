@@ -1,4 +1,4 @@
-# MEC Student Handbook 2026 요약
+# [영어캠프 기간] MEC Student Handbook 핵심 규정
 
 Version: Draft v1.0  
 작성일: 2026-06-15
