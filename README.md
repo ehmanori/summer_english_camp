@@ -37,7 +37,7 @@
 - [프로젝트 개요](04-공통/Trip-Overview.md): 가족, 목적, 일정 범위
 - [비용 관리표](04-공통/Cost-tracker.md): 확정비·예상비·현지 지출
 - [KB손해보험 보험금 청구 가이드](04-공통/KB-Insurance-Claim-Guide.md): 사고 시 현지 증빙과 귀국 후 청구서류
-- [원본 자료](90-references): MEC 핸드북과 Offer 원본
+- MEC 핸드북과 Offer 원본은 개인정보 보호를 위해 Git 저장소 밖의 로컬 전용 폴더에 보관한다.
 
 ## 문서 관리 원칙
 
